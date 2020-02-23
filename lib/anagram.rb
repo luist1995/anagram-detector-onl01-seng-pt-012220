@@ -10,6 +10,6 @@ class Anagram
   
   def match(find_this)
     find_this.find_all do |word|
-      if word.split("").sort == 
+      if word.split("").sort == self.array_words.split("").sort
 
 end
