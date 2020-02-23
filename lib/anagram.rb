@@ -9,7 +9,7 @@ class Anagram
   end
   
   def match(find_this)
-    
+    find_this.find_all do |word|
     
 
 end
