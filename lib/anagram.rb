@@ -8,7 +8,8 @@ class Anagram
     @array_words = array_words 
   end
   
-  def match(word)
+  def match(find_this)
+    
     
 
 end
