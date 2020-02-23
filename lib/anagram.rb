@@ -1,6 +1,8 @@
 # Your code goes here!
 class Anagram 
 
-  attr_accessor :
+  attr_accessor :words
+  
+  def initialize 
 
 end
